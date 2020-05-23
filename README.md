@@ -20,6 +20,6 @@ Boilerplate of Express Server using **Apollo Server Express** as Middleware to u
 
 ## Licencias
 
-> Puedes ver la licencia [aquí](https://github.com/santychuy/discord-bot-losBuenos/blob/master/LICENSE).
+> Puedes ver la licencia [aquí](https://github.com/santychuy/express-graphql-boilerplate/blob/master/LICENSE).
 
 Este proyecto tiene licencia bajo los términos de la licencia **MIT**.
